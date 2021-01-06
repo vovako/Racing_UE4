@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 StarterContent
+Config/*
+!Config/DefaultInput.ini
